@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 재남부동산연구소
+title: 이승주컴퍼니
 email: help@leevra.com
-description: 부동산 투자의 시작, 확실한 수익형 투자를 원하신다면 재부연 공부가 답입니다. 아파트, 빌라, 오피스텔, 토지, 상가 분양 매매 잘 해봐요^^ > # this means to ignore newlines until "baseurl:"
+description: 기본 월급 200만원, 인센티브 성과제 운영, 사원모집 구인 중 > # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jaenamland.leeseungju.com" # the base hostname & protocol for your site
+url: "https://company.leeseungju.com" # the base hostname & protocol for your site
 
 social_sharing: true
 github_username:  jekyll
