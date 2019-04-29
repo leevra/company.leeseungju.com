@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 이승주컴퍼니
+title: 알바컴퍼니
 email: help@leevra.com
-description: 기본 월급 200만원, 인센티브 성과제 운영, 사원모집 구인 중 > # this means to ignore newlines until "baseurl:"
+description: 기본 월급 200만원, 인센티브 성과제 운영, 사원모집 구인 중, 알바컴퍼니 > # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://company.leeseungju.com" # the base hostname & protocol for your site
