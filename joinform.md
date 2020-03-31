@@ -6,7 +6,7 @@ show_in_nav: true
 ---
 
 
-<META HTTP-EQUIV="Refresh" CONTENT="0;URL=https://cafe.naver.com/wangddangkong">
+<META HTTP-EQUIV="Refresh" CONTENT="0;URL=https://m.cafe.naver.com/ca-fe/web/cafes/29996950/menus/26">
 
 
 
